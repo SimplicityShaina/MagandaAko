@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<publish-info>
+  <server id="Payara Server 6 (6.1) [domain1]" path="publish2.dat"/>
+  <server id="Payara Server 5 (5.2022.2) [domain1]" path="publish1.dat"/>
+  <server id="Tomcat v7.0 Server at localhost" path="publish0.dat"/>
+</publish-info>

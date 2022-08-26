@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans
+    http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+	<bean id="state" class="com.SpringAutoWireExample.beans.State">
+		<property name="stateName" value="New Delhi" />
+	</bean>
+
+	<bean id="state1" class="com.SpringAutoWireExample.beans.State">
+		<property name="stateName" value="Uttar Pradesh" />
+	</bean>
+
+	<bean id="country" class="com.SpringAutoWireExample.beans.Country" autowire="byName" />
+
+
+</beans>

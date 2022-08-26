@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans
+    http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+
+	<!-- Constructor autowire by default uses the byType -->
+
+	<bean id="s1" class="com.SpringAutoWireExample.beans.State" >
+		<property name="stateName" value="Uttar Pradesh" />
+	</bean>
+
+	<bean id="s2" class="com.SpringAutoWireExample.beans.State" autowire-candidate="false">
+		<property name="stateName" value="New Delhi" />
+	</bean>
+
+	<bean id="city" class="com.SpringAutoWireExample.beans.City" autowire="constructor" />
+
+
+</beans>

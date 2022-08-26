@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;gateway-service-config&apos; to &apos;registration-mvc&apos;&#x0D;&#x0A;- Original project: &apos;microservices_new&apos;&#x0D;&#x0A;- Destination element: &apos;registration-mvc&apos;&#x0D;&#x0A;- Original element: &apos;gateway-service-config&apos;" description="Copy folder" element1="gateway-service-config" files="0" flags="589830" folders="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1658894940063" target="/registration-mvc" units="0" version="1.0"/>
+</session>

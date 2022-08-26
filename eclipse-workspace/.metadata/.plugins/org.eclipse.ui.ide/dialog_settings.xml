@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="NewWizardAction">
+		<item key="NewWizardSelectionPage.STORE_SELECTED_ID" value="org.eclipse.m2e.core.wizards.Maven2ProjectWizard"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="org.eclipse.ui.Basic"/>
+			<item value="org.eclipse.jdt.ui.java"/>
+			<item value="org.eclipse.m2e"/>
+			<item value="org.eclipse.wst.web.ui"/>
+		</list>
+	</section>
+	<section name="SmartImportWizard">
+		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
+		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="C:\Users\lizam\Downloads\login-registration-backend-master\login-registration-backend-master"/>
+			<item value="C:\Users\lizam\Downloads\SpringBootEmailVerification\SpringBootEmailVerification"/>
+			<item value="C:\Users\lizam\Downloads\Banking-Solution-Demo-main\Banking-Solution-Demo-main"/>
+			<item value="C:\Users\lizam\Downloads\shopping_cart_react_js-master\shopping_cart_react_js-master"/>
+			<item value="C:\Users\lizam\Downloads\shoppingcart_spring_boot-master\shoppingcart_spring_boot-master"/>
+			<item value="C:\Users\lizam\Documents\Kay Shaina\Collabera\Micro Project\Online-Bank-Rest-API"/>
+			<item value="C:\Users\lizam\Downloads\OnlineBankingApplication-master\OnlineBankingApplication-master\OnlineBankingApplication-master\MicroBanking"/>
+			<item value="C:\Users\lizam\Downloads\OnlineBankingApplication-master\OnlineBankingrRestAPI\OnlineBankingrRestAPI\OnlineBankingrRestAPI - Copy\MicroBanking"/>
+			<item value="C:\Users\lizam\Downloads\OnlineBankingApplication-master\OnlineBankingrRestAPI\OnlineBankingrRestAPI\OnlineBankingrRestAPI - Copy\OnlineBankingrRestAPI\BankMicro"/>
+			<item value="C:\Users\lizam\Downloads\OnlineBankingApplication-master\OnlineBankingApplication-master12"/>
+			<item value="C:\Users\lizam\Downloads\OnlineBankingApplication-master\OnlineBankingrRestAPI\OnlineBankingrRestAPI\OnlineBankingrRestAPI\OnlineBankingrRestAPI\BankRestAPI"/>
+			<item value="C:\Users\lizam\eclipse-workspace\OnlineBankingMircro\OnlineBankingMircro"/>
+			<item value="C:\Users\lizam\Downloads\OnlineBankingApplication-master\OnlineBankingrRestAPI\OnlineBankingrRestAPI\OnlineBankingrRestAPI\BankRestAPI"/>
+			<item value="C:\Users\lizam\Downloads\OnlineBankingApplication-master\OnlineBankingrRestAPI\OnlineBankingrRestAPI"/>
+			<item value="C:\Users\lizam\Downloads\OnlineBankingApplication-master\OnlineBankingrRestAPI"/>
+			<item value="C:\Users\lizam\Downloads\employee-master\employee-master"/>
+			<item value="C:\Users\lizam\Documents\Kay Shaina\Collabera\OnlineBankingApplication\OnlineBankingApplication"/>
+			<item value="C:\Users\lizam\eclipse-workspace\OnlineBankingApplication\OnlineBankingApplication"/>
+			<item value="C:\Users\lizam\eclipse-workspace\OnlineBankingApplication-master12\OnlineBankingApplication-master"/>
+			<item value="C:\Users\lizam\Downloads\OnlineBankingApplication-master\OnlineBankingApplication-master12\OnlineBankingApplication-master"/>
+			<item value="C:\Users\lizam\Downloads\registration-mvc (1)\registration-mvc"/>
+			<item value="C:\Users\lizam\Downloads\LoginandReg"/>
+			<item value="C:\Users\lizam\Downloads\SimpleBank\SimpleBank"/>
+			<item value="C:\Users\lizam\Downloads\Crud"/>
+			<item value="C:\Users\lizam\Downloads\SpringBootRegistrationLogin"/>
+			<item value="C:\Users\lizam\Downloads\KomiBank-master\KomiBank-master"/>
+			<item value="C:\Users\lizam\Downloads\OnlineBankingApplication-master\OnlineBankingApplication-master"/>
+			<item value="C:\Users\lizam\Downloads\BankSystem-master (1)\BankSystem-master"/>
+			<item value="C:\Users\lizam\Downloads\BankSystemSpring-master"/>
+			<item value="C:\Users\lizam\Downloads\BankSystemExample-SpringBoot-master\BankSystemExample-SpringBoot-master"/>
+			<item value="C:\Users\lizam\Downloads\BankSystemSpring-master\BankSystemSpring-master"/>
+			<item value="C:\Users\lizam\Downloads\BankSystemExample-SpringBoot-master"/>
+			<item value="C:\Users\lizam\Downloads\BankSystem-main\BankSystem-main"/>
+			<item value="C:\Users\lizam\Downloads\Simple-Banking-System-main"/>
+			<item value="C:\Users\lizam\Downloads\BankSystem-master\BankSystem-master"/>
+			<item value="C:\Users\lizam\Downloads\BankSystem-main"/>
+			<item value="C:\Users\lizam\Downloads\BankingApplication-master\BankingApplication-master"/>
+			<item value="C:\Users\lizam\Downloads\mynetbank-master\mynetbank-master"/>
+			<item value="C:\Users\lizam\Downloads\Simple-Banking-System-main\Simple-Banking-System-main"/>
+			<item value="C:\Users\lizam\Downloads\banking2\banking2"/>
+			<item value="C:\Users\lizam\Downloads\IBank-master\IBank-master"/>
+			<item value="C:\Users\lizam\Downloads\BankingSystem-Backend-master\BankingSystem-Backend-master"/>
+			<item value="C:\Users\lizam\Downloads\Circuit-Breaker"/>
+			<item value="C:\Users\lizam\Downloads\feign-eureka-main\feign-eureka-main"/>
+			<item value="C:\Users\lizam\Downloads\microservices-master\microservices-master\Micro-services"/>
+			<item value="C:\Users\lizam\Downloads\RibbonFolder\RibbonFolder"/>
+			<item value="C:\Users\lizam\Downloads\koushikkothagal-spring-boot-microservices-workshop-master\koushikkothagal-spring-boot-microservices-workshop-master"/>
+			<item value="C:\Users\lizam\Downloads\eureka server"/>
+			<item value="C:\Users\lizam\Downloads\microservices_new1"/>
+			<item value="C:\Users\lizam\Downloads\microservices_new"/>
+			<item value="C:\Users\lizam\Downloads\springmvcexample\springmvcexample"/>
+		</list>
+	</section>
+	<section name="BasicNewProjectResourceWizard">
+	</section>
+	<section name="ExternalProjectImportWizard">
+		<item key="WizardProjectsImportPage.STORE_NESTED_PROJECTS" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_CLOSE_CREATED_PROJECTS_ID" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_HIDE_CONFLICTING_PROJECTS_ID" value="false"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="C:\Users\lizam\eclipse-workspace\OnlineBankingApplication-master12\OnlineBankingApplication-master"/>
+			<item value="C:\Users\lizam\Downloads\springmvcexample\springmvcexample"/>
+			<item value="C:\Users\lizam\Downloads\firsthbxml\firsthb"/>
+			<item value="C:\Users\lizam\Downloads\spring-autowiring-example-using-xml\spring-autowire-xml"/>
+			<item value="C:\Users\lizam\Downloads\si4\SIwithNonStringCollection"/>
+			<item value="C:\Users\lizam\Downloads\si3\SIwithCollection"/>
+			<item value="C:\Users\lizam\Downloads\ci7\DIwithInheritingBean"/>
+			<item value="C:\Users\lizam\Downloads\fspeclipse (1)\fspeclipse"/>
+			<item value="C:\Users\lizam\Downloads\ci5\CIwithMap"/>
+			<item value="C:\Users\lizam\Downloads\dicons (2)\DIbycons"/>
+			<item value="C:\Users\lizam\Downloads\dicons\DIbycons"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+		</list>
+	</section>
+	<section name="SaveAsDialogSettings">
+		<item key="DIALOG_X_ORIGIN" value="534"/>
+		<item key="DIALOG_Y_ORIGIN" value="41"/>
+		<item key="DIALOG_WIDTH" value="875"/>
+		<item key="DIALOG_HEIGHT" value="711"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-18|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+	</section>
+	<section name="org.eclipse.ui.internal.ide.dialogs.ProjectContentsLocationArea">
+		<item key="OUTSIDE_LOCATION" value="C:\Users\lizam\Downloads\OnlineBankingApplication-master\OnlineBankingApplication-master12"/>
+	</section>
+</section>

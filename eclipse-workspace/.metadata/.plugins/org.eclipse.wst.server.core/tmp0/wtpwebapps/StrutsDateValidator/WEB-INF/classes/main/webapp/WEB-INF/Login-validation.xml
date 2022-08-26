@@ -1,0 +1,23 @@
+<!DOCTYPE validators PUBLIC
+        "-//OpenSymphony Group//XWork Validator 1.0.2//EN"
+        "http://struts.apache.org/dtds/xwork-validator-1.0.2.dtd">
+<validators>
+   <field name="userName">
+      <field-validator type="requiredstring">
+		<param name="trim">true</param>
+         <message>
+            Username is required.
+         </message>
+      </field-validator>
+   </field>
+
+   <field name="dateOfBirth">
+		<field-validator type="date">
+		 <param name="min">01/01/2000</param>
+   		 <param name="max">01/01/2014</param>
+         <message>
+            Date Of Birth should be between ${min} and ${max}.
+         </message>
+      </field-validator>
+   </field>
+</validators>

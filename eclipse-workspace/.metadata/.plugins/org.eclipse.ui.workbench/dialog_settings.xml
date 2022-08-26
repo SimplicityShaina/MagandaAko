@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="ImportExportAction">
+		<item key="ImportExportPage.STORE_SELECTED_IMPORT_WIZARD_ID" value="org.eclipse.e4.ui.importer.wizard"/>
+		<list key="ImportExportPage.STORE_EXPANDED_IMPORT_CATEGORIES">
+			<item value="org.eclipse.ui.Basic"/>
+			<item value="org.eclipse.m2e"/>
+		</list>
+	</section>
+	<section name="FileSystemImportWizard">
+		<item key="WizardFileSystemResourceImportPage1.STORE_OVERWRITE_EXISTING_RESOURCES_ID" value="false"/>
+		<item key="WizardFileSystemResourceImportPage1.STORE_CREATE_CONTAINER_STRUCTURE_ID" value="false"/>
+		<list key="WizardFileSystemResourceImportPage1.STORE_SOURCE_NAMES_ID">
+			<item value="C:\Users\lizam\Downloads\login\demo"/>
+			<item value="C:\Users\lizam\Downloads\Banking-System-master\Banking-System-master"/>
+			<item value="C:\Users\lizam\Downloads\microservices_new"/>
+			<item value="C:\Users\lizam\Downloads\springmvcexample\springmvcexample"/>
+			<item value="C:\Users\lizam\Downloads\dicons (1)\DIbycons"/>
+			<item value="C:\Users\lizam\Downloads\mavenproject1"/>
+			<item value="C:\Users\lizam\Downloads\hello-world-jakartaee9-master\hello-world-jakartaee9-master"/>
+			<item value="C:\Users\lizam\Downloads\gs-maven-main\gs-maven-main"/>
+			<item value="C:\Users\lizam\Downloads\junittesting\junittesting"/>
+			<item value="C:\Users\lizam\Downloads\login-form-v2\Login_v2\css"/>
+			<item value="C:\Users\lizam\Downloads\ageValidator-20220701T032721Z-001\ageValidator"/>
+			<item value="C:\Users\lizam\Downloads\struts-2-ognl-expression-tutorial-with-examples\Struts2Demo"/>
+			<item value="C:\Users\lizam\Downloads\StrutsExample19\StrutsExample19"/>
+			<item value="C:\Users\lizam\Downloads\firststruts\firststruts"/>
+			<item value="C:\Users\lizam\Downloads\StrutsExample2"/>
+			<item value="C:\Users\lizam\Downloads\Struts2Beginner (1)\Struts2Beginner"/>
+			<item value="C:\Users\lizam\Downloads\Struts2Beginner\Struts2Beginner"/>
+			<item value="C:\Users\lizam\Downloads\mvceclipse\mvc"/>
+		</list>
+	</section>
+	<section name="NewWizardAction">
+		<item key="NewWizardSelectionPage.STORE_SELECTED_ID" value="org.springsource.ide.eclipse.commons.gettingstarted.wizard.boot.NewSpringBootWizard"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="org.eclipse.jdt.ui.java"/>
+			<item value="org.eclipse.jdt.ui.java/org.eclipse.jdt.junit"/>
+			<item value="org.eclipse.m2e"/>
+			<item value="org.eclipse.wst.server.ui"/>
+			<item value="org.springsource.ide.eclipse.boot.wizards.category"/>
+			<item value="org.eclipse.wst.web.ui"/>
+			<item value="org.eclipse.wst.XMLCategory"/>
+		</list>
+	</section>
+	<section name="ZipFileImportWizard">
+	</section>
+	<section name="FileSystemExportWizard">
+	</section>
+	<section name="ZipFileExportWizard">
+		<item key="WizardZipFileResourceExportPage1.STORE_CREATE_STRUCTURE_ID" value="true"/>
+		<item key="WizardZipFileResourceExportPage1.STORE_COMPRESS_CONTENTS_ID" value="true"/>
+		<list key="WizardZipFileResourceExportPage1.STORE_DESTINATION_NAMES_ID">
+			<item value="C:\Users\lizam\Downloads\hystrix.zip"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.internal.QuickAccess">
+		<item key="org.eclipse.ui.internal.quickaccess.QuickAccessDialogDIALOG_WIDTH" value="750"/>
+		<item key="org.eclipse.ui.internal.quickaccess.QuickAccessDialogDIALOG_HEIGHT" value="844"/>
+		<item key="org.eclipse.ui.internal.quickaccess.QuickAccessDialogDIALOG_USE_PERSISTED_SIZE" value="true"/>
+		<item key="org.eclipse.ui.internal.quickaccess.QuickAccessDialogDIALOG_USE_PERSISTED_LOCATION" value="false"/>
+		<list key="orderedElements">
+		</list>
+		<list key="orderedProviders">
+		</list>
+		<list key="textEntries">
+		</list>
+		<list key="textArray">
+		</list>
+	</section>
+</section>

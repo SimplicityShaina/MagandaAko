@@ -1,0 +1,7 @@
+<classpath>
+  <container id="StrutsHelloWorld!org.eclipse.jst.j2ee.internal.web.container">
+    <entry id="/StrutsHelloWorld/WebContent/WEB-INF/classes">
+      <source-attachment-path>/StrutsHelloWorld/WebContent/WEB-INF/classes</source-attachment-path>
+    </entry>
+  </container>
+</classpath>

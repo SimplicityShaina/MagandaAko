@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans
+	xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:p="http://www.springframework.org/schema/p"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-3.0.xsd">
+
+<bean id="e1" class="com.InheritingBeanExample">
+<constructor-arg value="101"></constructor-arg>
+<constructor-arg  value="Shaina"></constructor-arg>
+</bean>
+
+<bean id="e3" class="com.InheritingBeanExample">
+<constructor-arg value="102"></constructor-arg>
+<constructor-arg  value="Realyn"></constructor-arg>
+</bean>
+
+<bean id="e5" class="com.InheritingBeanExample">
+<constructor-arg value="103"></constructor-arg>
+<constructor-arg  value="Christian Albert"></constructor-arg>
+</bean>
+
+<bean id="address1" class="com.InheritingBeanExample.Address">
+<constructor-arg value="22,Shaina Mae Maulion"></constructor-arg>
+<constructor-arg value="Carmona"></constructor-arg>
+<constructor-arg value="Cavite"></constructor-arg>
+<constructor-arg value="Philippines"></constructor-arg>
+</bean>
+
+<bean id="address2" class="com.InheritingBeanExample.Address">
+<constructor-arg value="23,Realyn Soliman"></constructor-arg>
+<constructor-arg value="Sta.Rosa"></constructor-arg>
+<constructor-arg value="Laguna"></constructor-arg>
+<constructor-arg value="Philippines"></constructor-arg>
+</bean>
+
+<bean id="address3" class="com.InheritingBeanExample.Address">
+<constructor-arg value="21,Christian"></constructor-arg>
+<constructor-arg value="Brgy. 6 Carmona"></constructor-arg>
+<constructor-arg value="Turkey"></constructor-arg>
+<constructor-arg value="Philippines"></constructor-arg>
+</bean>
+
+<bean id="e2" class="com.InheritingBeanExample.Employee" parent="e1">
+<constructor-arg ref="address1"></constructor-arg>
+</bean>
+
+<bean id="e4" class="com.InheritingBeanExample.Employee" parent="e3">
+<constructor-arg ref="address2"></constructor-arg>
+</bean>
+
+<bean id="e6" class="com.InheritingBeanExample.Employee" parent="e5">
+<constructor-arg ref="address3"></constructor-arg>
+</bean>
+
+</beans>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move &apos;Dockerfile&apos; to &apos;first-service&apos;" description="Move &apos;Dockerfile&apos; to &apos;first-service&apos;" destination="/first-service" element1="/microservices_new/first-service/Dockerfile" flags="7" id="org.eclipse.ltk.core.refactoring.move.resources" resources="1" stamp="1658817268179" updateReferences="true"/>
+</session>
