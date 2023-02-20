@@ -1,0 +1,82 @@
+{"properties": [
+  {
+    "name": "domain.datasource.driver-class",
+    "type": "java.lang.String",
+    "description": "A description for 'domain.datasource.driver-class'"
+  },
+  {
+    "name": "spring.mail.ssl",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.mail.ssl'"
+  },
+  {
+    "name": "spring.mail.tls",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.mail.tls'"
+  },
+  {
+    "name": "mail.host",
+    "type": "java.lang.String",
+    "description": "A description for 'mail.host'"
+  },
+  {
+    "name": "mail.host",
+    "type": "java.lang.String",
+    "description": "A description for 'mail.host'"
+  },
+  {
+    "name": "mail.port",
+    "type": "java.lang.String",
+    "description": "A description for 'mail.port'"
+  },
+  {
+    "name": "mail.username",
+    "type": "java.lang.String",
+    "description": "A description for 'mail.username'"
+  },
+  {
+    "name": "mail.password",
+    "type": "java.lang.String",
+    "description": "A description for 'mail.password'"
+  },
+  {
+    "name": "properties.mail.smtp.ssl.trust",
+    "type": "java.lang.String",
+    "description": "A description for 'properties.mail.smtp.ssl.trust'"
+  },
+  {
+    "name": "properties.mail.smtp.auth",
+    "type": "java.lang.String",
+    "description": "A description for 'properties.mail.smtp.auth'"
+  },
+  {
+    "name": "properties.mail.smtp.starttls",
+    "type": "java.lang.String",
+    "description": "A description for 'properties.mail.smtp.starttls'"
+  },
+  {
+    "name": "properties.mail.smtp.connectiontimeout",
+    "type": "java.lang.String",
+    "description": "A description for 'properties.mail.smtp.connectiontimeout'"
+  },
+  {
+    "name": "properties.mail.smtp.timeout",
+    "type": "java.lang.String",
+    "description": "A description for 'properties.mail.smtp.timeout'"
+  },
+  {
+    "name": "properties.mail.smtp.writetimeout",
+    "type": "java.lang.String",
+    "description": "A description for 'properties.mail.smtp.writetimeout'"
+  },
+  {
+    "name": "jwt.header",
+    "type": "java.lang.String",
+    "description": "A description for 'jwt.header'"
+  },
+  {
+    "name": "jwt.secret",
+    "type": "java.lang.String",
+    "description": "A description for 'jwt.secret'"
+  }
+]}
